@@ -1,0 +1,24 @@
+
+.row{
+    width: 100%;
+}
+.col-2{
+    width: 16.66%;
+    padding: 15px;
+
+}
+.col-10{
+    width: 83.33%;
+    padding: 15px;
+
+}
+.filter{
+    border: 2px solid black;
+    height: 100vh;
+}
+.pagination{
+    justify-content: center;
+}
+.reset{
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+.btn{
+    border: 1px solid;
+    padding: 4px;
+    background: rgb(255, 255, 255);
+}
+
+
+.Converted{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(26, 173, 51);
+}
+.Inprogress{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(0, 159, 180);
+}
+.Cancelled{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(197, 15, 15);
+}
+.Rejected{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(133, 133, 133);
+}
+.OnHold{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(170, 159, 0);
+}
+.NoResponse{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(194, 94, 0);
+}
+.Active{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(26, 173, 51);
+}
+.Inactive{
+    /* border: 1px solid rgb(0, 0, 0) !important; */
+    color: rgb(133, 133, 133);
+}
